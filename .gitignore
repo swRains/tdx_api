@@ -1,0 +1,37 @@
+# TDX 日线数据目录 (数百MB, 不提交)
+sh/
+sz/
+bj/
+
+# 下载的 zip 文件
+hsjday.zip
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# IDE
+.vscode/
+.idea/
+
+# 虚拟环境
+venv/
+env/
+.env/
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
+
+# 临时文件
+*.tmp
+Temp/
